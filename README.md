@@ -1,4 +1,6 @@
-# CONTROLE DE ACESSO A ESCOLAS (PROJETO ESCOLA SEGURA)
+# PROJETO ESCOLA SEGURA 
+
+CONTROLE DE ACESSO A ESCOLAS
 
 
 > API Rest criado com funcionalidades básicas e essenciais (MVP) para
@@ -12,7 +14,8 @@
 
 ## Tecnologias
 
-Dependências: > Certifique-se de ter as seguintes dependências em seu projeto: 
+Dependências: 
+> Certifique-se de ter as seguintes dependências em seu projeto: 
 
 - Spring Web.
 
